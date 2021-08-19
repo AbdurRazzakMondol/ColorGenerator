@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding: 0;
+}
+#container{
+height: 100vh;
+width: 100%;
+background: blue;
+}
+#button {
+    height: auto;
+    width: auto;
+    position: absolute;
+    top: 45%;
+    left: 42%;
+    font-size: 30px;
+    margin-bottom:10px ;
+}
+#GenNum{
+    height: auto;
+    width: auto;
+    position: absolute;
+    top: 61%;
+    left: 46%;
+    font-size: 30px;
+    border: 1px solid #fff;
+    background: #000;
+}
